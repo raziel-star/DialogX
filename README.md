@@ -21,8 +21,8 @@ It can understand user input using a predefined vocabulary and respond according
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/raziel-star/DialogX.git
+cd DialogX
 ```
 
 ### 2. Install dependencies
